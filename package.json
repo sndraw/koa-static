@@ -1,0 +1,27 @@
+{
+  "name": "koa-static",
+  "version": "1.0.0",
+  "description": "static project developed by koa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sndraw/koa-static.git"
+  },
+  "keywords": [
+    "koa",
+    "nodejs"
+  ],
+  "author": "sn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sndraw/koa-static/issues"
+  },
+  "homepage": "https://github.com/sndraw/koa-static#readme",
+  "dependencies": {
+    "iconv-lite": "^0.4.24",
+    "koa": "^2.7.0"
+  }
+}
